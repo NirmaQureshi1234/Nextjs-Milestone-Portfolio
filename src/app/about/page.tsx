@@ -32,7 +32,7 @@ const About = () => {
               now focused on mastering Next.js. Bringing a unique pre-medical
               background, poised to apply expertise in web development and AI to
               innovative and impactful projects. This keeps it professional and
-              concise. Let me know if you&apos;d like any changes!&quot;
+              concise!&quot;
             </p>
             <button id="btn" onClick={() => router.push("/contact")}>
               Contact me
